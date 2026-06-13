@@ -58,4 +58,4 @@ A subscription tracker app built with React Native, Expo, and Firebase (Auth, Fi
 
 - 📧 efkevin@icloud.com
 - 💼 [LinkedIn](https://linkedin.com/in/enochomobolajiflourish)
-- 🐦 [@efkevin_](https://twitter.com/efkevin_)
+- 🌐 [efbolaji](https://efkevin.vercel.app/)
